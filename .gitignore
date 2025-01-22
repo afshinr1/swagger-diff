@@ -18,7 +18,12 @@ hs_err_pid*
 .idea
 swagger-diff.iml
 testDiff.html 
+testDiff.json 
 testDiff.md
 testDeprecatedApi.html
 testNewApi.html
 
+*.DS_Store
+
+# API Files #
+/sample/
